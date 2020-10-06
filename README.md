@@ -1,4 +1,4 @@
-# Python-rock_paper_scissor
+# Python - Rock Paper Scissor
 
 Just made a rock paper scissor game, try to beat the computer!
 
